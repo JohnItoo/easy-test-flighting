@@ -27,6 +27,8 @@ Over Curl
 
 Check out this [publication](https://medium.com/cotta-cush/ios-builds-and-internal-release-from-command-line-2ca59093ba8b)   for some explanation and a thorough guide to the use of this tool.
 
+(This repository is a better house for tracking the work that was started [here](https://gist.github.com/JohnItoo/de3b55937aeede810aaaddafcde0f59b) and was released Jun 2019. 
+
 ## Contributors
 
 - [John Ohue](https://github.com/JohnItoo)
