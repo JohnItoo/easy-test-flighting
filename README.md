@@ -12,11 +12,13 @@ This is a wrapper around Xcode Build tools that provides a CLI alternative to Te
 ## Get Easy Test Flighting :airplane:
 
 Over ssh
+
  ```1) git clone git@github.com:JohnItoo/easy-test-flighting.git ```
  
    ```2) sudo cp ~/easy-test-flighting/internalRelease.sh ~/path-to-your-project```
    
 Over Curl
+
   ``` 1) cd to  ~/path-to-your-project```
   
   ``` 2) Do curl -L -O https://raw.githubusercontent.com/JohnItoo/easy-test-flighting/master/internalRelease.sh```
