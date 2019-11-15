@@ -2,6 +2,8 @@
 
 This is a wrapper around Xcode Build tools that provides a CLI alternative to TestFlight releases.
 
+[![Software License][ico-license]](LICENSE)
+
 ## Requirements
 - Xcode Command Line Tools
 -  agv tool setup in your project, See the "[Enabling agv tool section in the official guide to this wrapper](https://medium.com/cotta-cush/ios-builds-and-internal-release-from-command-line-2ca59093ba8b#0520)"
